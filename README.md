@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/>
 
 
-Done is better than perfect
+Done is better than perfect     
 so fail fast repeat & upgrade
