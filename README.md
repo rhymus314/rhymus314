@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Introduce 👀
+### Introduce Myself👀
 
 <!--
 **rhymus314/rhymus314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 How to reach me: yuys03145@gmail.com
 
 ### My Skills 🔥
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -32,3 +34,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/>
 
 
+Done is better than perfect
+so fail fast repeat & upgrade
