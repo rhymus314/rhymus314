@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 
 Done is better than perfect     
-so fail fast repeat & upgrade
+so Upgrade with fast fail and feedback
