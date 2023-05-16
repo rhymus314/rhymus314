@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 📫 How to reach me: yuys03145@gmail.com
 
 ### My Skills 🔥
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 
